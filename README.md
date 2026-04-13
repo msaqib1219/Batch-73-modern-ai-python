@@ -7,7 +7,7 @@ This repository contains all the coding exercises, assignments, and projects com
 Use the following command to clone the repository to your local machine:
 
 ```
-git clone https://github.com/usmanashrf/Batch-73-modern-ai-python.git
+!git clone https://github.com/usmanashrf/Batch-73-modern-ai-python.git #bWithout exclamation mark it does not clone for me.
 ```
 **Navigate Folders:** 
 Browse through the folders to find relevant code and resources.
